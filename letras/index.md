@@ -1,4 +1,5 @@
 ---
+permalink: /letras/
 layout: page
 title: Letras
 ---
