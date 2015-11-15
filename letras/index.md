@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Letras - Coro da Achada
 ---
 
