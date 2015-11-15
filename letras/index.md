@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Letras - Coro da Achada
+layout: page
+title: Letras
 ---
 
-* Letras:
+* auto-gen TOC (ignored comment):
 {:toc}
 
 
