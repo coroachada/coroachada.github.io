@@ -1,7 +1,3 @@
----
-title: Coro da Achada
----
-
 # Site do Coro da Achada
 
 [Ir para o site](http://coroachada.github.io)
