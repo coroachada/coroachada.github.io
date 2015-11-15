@@ -10,6 +10,8 @@ published: true
 {:toc}
 
 
+---
+
 #Imagine
 
 <small>
@@ -58,6 +60,9 @@ But we're not the only ones
 Maybe someday you will join us  
 And the world will live as one  
 </b>
+
+
+---
 
 # Canto de Esperança
 
