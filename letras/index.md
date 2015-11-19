@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 * auto-gen TOC (ignored comment):
 {:toc}
 
@@ -27,10 +28,10 @@ Imagine all the people
 Living for today...  
 
 <b>
-You may say we’re dreamers *(say we’re dreamers)*  
-But we’re not the only ones  
-Maybe someday you can join us  
-And the world could be as one  
+You may say _we’re dreamers *(say we’re dreamers)*_  
+But _we’re_ not the only _ones_  
+Maybe someday you _can_ join us  
+And the world _could_ be as one  
 </b>
 
 Imagine there's no countries  
@@ -38,26 +39,26 @@ It isn't hard to do
 Nothing to kill or die for  
 And no religion too  
 Imagine all the people  
-***Moving on their own…***  
+_Sharing all the world..._  
 
 <b>
-You may say we’re dreamers  
-But we’re not the only ones  
+You may say _we’re dreamers_  
+But _we’re_ not the only _ones_  
 Maybe someday you’ll join us  
 And the world will be as one  
 </b>
 
 Imagine no possessions  
-We still wonder if you can  
+We _**still**_ wonder if you can  
 No need for greed or hunger  
-A brotherhood of mankind  
+A brotherhood of man_**kind**_  
 Imagine all the people  
-Sharing all the world...  
+***Loving every one...***  
 
 <b>
-You may say we're a dreamers  
-But we're not the only ones  
-Maybe someday you will join us  
+You may say _we're a dreamers_  
+But _we're_ not the only _ones_  
+Maybe someday you _will_ join us  
 And the world will live as one  
 </b>
 
