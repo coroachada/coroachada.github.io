@@ -7,7 +7,7 @@ title: Coro da Achada
 #  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://coroachada.github.io" # the base hostname & protocol for your site
-github_url: https://github.com/coroachada/coroachada.github.io
+github_url: https://github.com/coroachada/coroachada.github.io/blob/master/README.md
 twitter_username: coroachada
 github_username:  coroachada
 
