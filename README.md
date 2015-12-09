@@ -1,4 +1,4 @@
-# Site do Coro da Achada
+# Site do Coro da Achada (não oficial)
 
 [Ir para o site](http://coroachada.github.io)
 
