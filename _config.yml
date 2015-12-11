@@ -8,6 +8,7 @@ title: Coro da Achada (não oficial)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://coroachada.github.io" # the base hostname & protocol for your site
 prose_url: http://prose.io/#coroachada/coroachada.github.io/edit/master
+github_url: https://github.com/coroachada/coroachada.github.io
 twitter_username: coroachada
 github_username:  coroachada
 
