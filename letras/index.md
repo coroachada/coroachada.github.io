@@ -7,6 +7,7 @@ published: true
 
 
 
+
 * auto-gen TOC (ignored comment):
 {:toc}
 
@@ -61,6 +62,44 @@ But _we're_ not the only _ones_
 Maybe someday you _will_ join us  
 And the world will live as one  
 </b>
+
+---
+
+#Natal dos Simples
+
+<small>
+*Zeca Afonso*  
+</small>
+
+Vamos cantar as janeiras  
+Vamos cantar as janeiras  
+Por esses quintais adentro vamos  
+As raparigas solteiras  
+
+Vamos cantar orvalhadas  
+Vamos cantar orvalhadas  
+Por esses quintais adentro vamos  
+As raparigas casadas  
+
+Vira o vento e muda a sorte  
+Vira o vento e muda a sorte  
+Por aqueles olivais perdidos  
+Foi-se embora o vento norte  
+
+Muita neve cai na serra  
+Muita neve cai na serra  
+Só se lembra dos caminhos velhos  
+Quem tem saudades da terra  
+
+Quem tem a candeia acesa  
+Quem tem a candeia acesa  
+Rabanadas pao e vinho novo  
+Matava a fome à pobreza  
+
+Já nos cansa esta lonjura  
+Já nos cansa esta lonjura  
+Só se lembra dos caminhos velhos  
+Quem anda à noite à ventura  
 
 
 ---
