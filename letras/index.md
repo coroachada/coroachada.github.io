@@ -280,6 +280,7 @@ Where do they all belong?
 *Bobby McFerrin*
 </small>
 
+```
 Here's a little song I wrote
 You might want to sing it note for note
 Don't worry, be happy
@@ -345,3 +346,4 @@ Listen to what I say
 In your life expect some trouble
 When you worry you make it double
 Don't worry, be happy, be happy now
+```
