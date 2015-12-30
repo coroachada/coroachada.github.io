@@ -6,11 +6,8 @@ published: true
 ---
 
 
-
-
 * auto-gen TOC (ignored comment):
 {:toc}
-
 
 ---
 
@@ -66,7 +63,7 @@ And the world will live as one
 
 ---
 
-#Natal dos Simples
+# Natal dos Simples
 
 <small>
 *Zeca Afonso*  
@@ -163,6 +160,10 @@ lança-te à marcha, não te afastes.
 Mistura a tua voz à voz que se levanta  
 das chaminés e dos guindastes.  
 </b>
+
+---
+
+# __ outras mais __
 
 ---
 
