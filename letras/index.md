@@ -89,6 +89,29 @@ das chaminés e dos guindastes.
 
 ---
 
+# Cio da Terra
+
+<small>
+*Letra e música: Chico Buarque e Milton Nascimento*  
+</small>
+
+Debulhar o trigo  
+Recolher cada bago do trigo  
+Forjar no trigo o milagre do pão  
+E se fartar de pão  
+
+Decepar a cana  
+Recolher a garapa da cana  
+Roubar da cana a doçura do mel  
+Se lambuzar de mel  
+
+Afagar a terra  
+Conhecer os desejos da terra  
+Cio da terra, a propícia estação  
+E fecundar o chão  
+
+---
+
 # Imagine
 [play](https://www.youtube.com/watch?v=DVg2EJvvlF8)
 
