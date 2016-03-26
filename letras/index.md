@@ -261,6 +261,35 @@ And they all look just the same.
 
 ---
 
+# Maio
+
+<small>
+*letra: Aníbal Raposo (2013-05-01)*  
+*música: Pedro Rodrigues*  
+<small>
+
+eu canto um maio moço,  
+um mês que cheire a rosas  
+vermelhas, orvalhadas,  
+recentes e viçosas.  
+
+um maio de alvoroço,  
+um maio-mar-de-gente  
+a liberar o sonho,  
+erguida, finalmente.  
+
+eu canto o maio ansiado,  
+aquele que há de vir,  
+um maio renovado,  
+maio-menino a rir.  
+
+um maio desenvolto,  
+um maio-meio-céu,  
+maio maduro, solto  
+desta noite de breu.  
+
+---
+
 # Natal dos Simples
 
 <small>
