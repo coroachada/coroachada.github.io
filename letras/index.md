@@ -112,6 +112,59 @@ E fecundar o chão
 
 ---
 
+# Dimmi bel giovane
+
+<small>
+*sub-intitulado "Exame de admissão de um voluntário à Comuna de Paris"*  
+*texto de Francesco Bertelli, 1871*  
+*música: anónimo*  
+*arranjo: coro da Achada*  
+</small>
+
+Dimmi bel giovane  
+onesto e biondo  
+dimmi la patria  
+tua qual'è  
+tua qual'è  
+
+Adoro il popolo  
+la mia patria è il mondo  
+il pensier libero  
+è la mia fe'  
+è la mia fe'  
+
+<b>
+La casa è di chi l'abita  
+è un vile chi lo ignora  
+il tempo è dei filosofi  
+il tempo è dei filosofi  
+</b>
+
+<b>
+La casa è di chi l'abita  
+è un vile chi lo ignora  
+il tempo è dei filosofi  
+la terrà è di chi la lavora.  
+</b>
+
+Addio mia bella  
+casetta addio  
+madre amatissima  
+e genitor  
+e genitor  
+
+Io pugno intrepido  
+per la comune  
+come Leonida  
+saprò morir  
+saprò morir  
+
+<small>
+Francesco Giuseppe Bertelli nasceu em Vecchiano (Pisa) 1 de Fevereiro de 1836. Voluntário na Terceira Guerra de Independência (1866). Tenente garibaldino em Mentana (1867). Segue Garibaldi para Francia na guerra Franco-Prussiana. Depois dos acontecimentos da Comuna de Paris volta a Vecchiano (1871). Em Vecchiano promove a constituição da "Unione Democratica Sociale". Sempre vigiado pela polícia, é preso repetidamente por fazer propaganda considerada "subversiva". Em 1875 é preso, surpreeendido a distribuir cópias da sua poesia contra a pena de morte. A experiência francesa e os ecos da tragédia dos communards toca-o profundamente e como testemunho escreve uma célebre poesia intitulada “Esame d’ammissione del volontario alla Comune di Parigi” ("Exame de admissão de um voluntário à Comuna de Paris") da qual resta na memória local de Vecchiano uma redução livre do título “Dimmi bel giovane”. Escreveu muita poesia, em parte perdida.
+</small>
+
+---
+
 # Imagine
 [play](https://www.youtube.com/watch?v=DVg2EJvvlF8)
 
